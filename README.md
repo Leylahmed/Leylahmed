@@ -2,8 +2,8 @@
   
 
 <div align=center>
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Leylahmed&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  <img width="400"  src="https://github-readme-streak-stats.herokuapp.com?user=Leylahmed&theme=tokyonight&hide_border=true" />
+  <img width="500" src="https://github-readme-stats.vercel.app/api?username=Leylahmed&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  <img width="500"  src="https://github-readme-streak-stats.herokuapp.com?user=Leylahmed&theme=tokyonight&hide_border=true" />
   <img align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Leylahmed&show_icons=true&theme=tokyonight&layout=compact" alt="developer-metalhead" />  
 
 </div>
